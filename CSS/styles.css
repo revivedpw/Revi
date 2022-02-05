@@ -1,0 +1,121 @@
+body {
+  background-color: #FA58B6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+}
+
+h1 {
+  color: #461111;
+}
+
+h2 {
+  color: #461111;
+  font-weight: bold;
+}
+
+h3 {
+  color: #461111;
+}
+
+.python {
+  width: 153.6px;
+  height: 153.6px;
+  position: absolute;
+  bottom: 70px;
+  left: 400px;
+}
+
+.java {
+  width: 153.6px;
+  height: 153.6px;
+  position: absolute;
+  bottom: 70px;
+  left: 678px;
+}
+
+.javascript {
+  width: 153.6px;
+  height: 153.6px;
+  position: absolute;
+  bottom: 70px;
+  left: 960px;
+}
+
+.clock {
+  width: 153.6px;
+  height: 153.6px;
+  position: absolute;
+  bottom: 70px;
+  left: 678px;
+
+}
+
+.dividert {
+  position:absolute;
+  top: 0;
+  left: 257px;
+}
+
+.dividerb {
+  position: absolute;
+  bottom: 0;
+  left: 257px;
+}
+
+.icecream{
+  width: 256px;
+  height: 256px;
+  position: absolute;
+  bottom: 260px;
+  left: 627px;
+  opacity: 0.7;
+}
+
+.top-container {
+  position: relative;
+  height: 1000px;
+  text-align: center;
+}
+
+.title {
+  width: 35%;
+  margin: 0 auto 0 auto;
+  font-size: 100px;
+  position: absolute;
+  top: 200px;
+  left: 490px;
+}
+
+.subtitle {
+  color: #461111;
+  width: 35%;
+  font-size: 2.5rem ;
+  margin: 0 auto 0 auto;
+  position: absolute;
+  top: 350px;
+  left: 490px;
+}
+
+.profile {
+  height: 180px;
+}
+
+.skill-row {
+  height: 400px;
+  position:relative;
+}
+
+.skill-row1 {
+  height: 500px;
+  position:relative;
+}
+
+.contact-me {
+  height: 300px;
+}
+
+.btn {
+  position: relative;
+  top: 55px;
+}
